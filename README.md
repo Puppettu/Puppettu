@@ -7,6 +7,12 @@
 Discord Tag: **`Puppettu#9013`**
 Discord Server: **https://discord.gg/85vFksTpX7**
 ```js
-async function () {
+while(alive) {
+    eat();
+    sleep();
+    code();
+
+    if(isWeekend()) {
+        takeABreak();
 }
 ```
